@@ -1,2 +1,2 @@
 # Test
-[Click here to access the local server](http://192.168.1.8:80)
+[Click here to access the local server](intent://settings#Intent;scheme=android.settings;end)
